@@ -88,7 +88,6 @@ html {
     width: -webkit-fill-available;
     justify-content: center;
     overflow: hidden;
-    background: repeating-linear-gradient(315deg, #fef7a7, #ffffff 55%);
 }
 .center_s{
     width: -webkit-fill-available;
