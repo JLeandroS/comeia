@@ -249,7 +249,6 @@ html {
     justify-content: center;
     align-items: center;
     display: none;
-    background:  linear-gradient(90deg, #00ff1d73, transparent);
     border: 2px solid rosybrown;
     border-right: 1vh solid cornflowerblue;
 }
