@@ -303,6 +303,9 @@ pre{
 .img_sobre{
     width: 50%;
 }
+.img_slide{
+    margin:0;
+}
 .sobre{
     display: flex;
     flex-direction: column;
