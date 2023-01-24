@@ -412,7 +412,7 @@ pre{
     }
     .menu {
         position: fixed;
-        top: 6.9vh;
+        top: 7.9vh;
         width: -webkit-fill-available;
         display: flex;
         justify-content: space-around;
