@@ -105,6 +105,8 @@ html {
 .img_slide{
     animation: opacidade 1s;
     width: -webkit-fill-available;
+    margin-left: 3vh;
+    margin-right: 3vh;
 }
 .opc{
     display: flex;
